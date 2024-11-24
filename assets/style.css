@@ -9,7 +9,7 @@ body {
 
 .background {
     position: absolute;
-    border-radius: 10px
+    border-radius: 1000px
 }
 
 .mines-title {
@@ -20,7 +20,7 @@ body {
     transform-origin: center;
     -webkit-text-stroke: 0.5px #ffffff; /* Обводка цвета #C1AB19 /
     text-shadow: 
-        0 0 8px rgba(193, 171, 25, 
+        0 0 81px rgba(193, 171, 25, 
 .letter:nth-child(3) { animation-delay: 0.2s
 .letter:nth-child(4) { animation-delay: 0
     0%, 100% { transform: translateY(0); }
@@ -30,7 +30,7 @@ body {
 .grid {
     display: grid;
     grid-template
-    margin-top: 70px;
+    margin-top: 710px;
 }
     grid-template-columns: repeat(5, 45px)
     grid-template-rows: repeat(5, 45px);
